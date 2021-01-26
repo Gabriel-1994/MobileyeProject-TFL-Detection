@@ -1,0 +1,10 @@
+.idea
+.ipynb_checkpoints
+__pycache__
+scaleup_imgs
+venv
+model.json
+model1.h5
+Untitled.ipynb
+weights.h5
+DataSet
